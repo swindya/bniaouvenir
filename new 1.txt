@@ -1,0 +1,1 @@
+NSERT INTO products(name, size, sku, packaging, price, description, jmlstok, imagepath, imagepathnumber, imagename, imagename2, imagename3, createduser, createddatetime) VALUES('HGHG','LLL','BNI-0009','',67000,'OKE DAH',34,'./DOC/IMAGES/1/',1,'','kaos-ugm-jazz-02.jpg','',2, now())
